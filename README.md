@@ -1,10 +1,10 @@
-# An old Hype
+# An old Hyper Jedi
 
 [![CircleCI](https://circleci.com/gh/erikmueller/an-old-hype.svg?style=svg)](https://circleci.com/gh/erikmueller/an-old-hype)
 
 > Hyper theme inspired by a galaxy far far away...
 
-Based on [An Old Hope](https://github.com/JesseLeite/an-old-hope-syntax-atom) - a splendid atom syntax theme by Jesse Leite
+Based on [An Old Hype](https://github.com/erikmueller/an-old-hype) - a splendid hyper theme by Erik Mueller
 
 ## Usage
 
@@ -50,9 +50,3 @@ config: {
     ...
 }
 ```
-
-## Screenshot
-
-![](screen.png)
-
-`oh-my-zsh` with the `pure` prompt and `Hasklig` font

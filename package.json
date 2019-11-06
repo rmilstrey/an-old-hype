@@ -1,5 +1,5 @@
 {
-  "name": "an-old-hype",
+  "name": "an-old-hyper-jedi",
   "version": "0.1.6",
   "description": "Hyper theme inspired by a galaxy far far away...",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://erikmueller@github.com/erikmueller/an-old-hype.git"
+    "url": "https://github.com/rmilstrey/an-old-hype.git"
   },
   "keywords": [
     "hyper",
@@ -19,12 +19,12 @@
     "theme",
     "starwars"
   ],
-  "author": "erikmueller",
+  "author": "rmilstrey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/erikmueller/an-old-hype/issues"
+    "url": "https://github.com/rmilstrey/an-old-hype/issues"
   },
-  "homepage": "https://github.com/erikmueller/an-old-hype#readme",
+  "homepage": "https://github.com/rmilstrey/an-old-hype#readme",
   "devDependencies": {
     "ava": "0.17.0",
     "standard": "8.6.0"
